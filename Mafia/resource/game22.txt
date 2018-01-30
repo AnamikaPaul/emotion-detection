@@ -1,0 +1,99 @@
+Message ID ,Tag_RR,Tag_WG,false 
+MO1,Sy,SY,true 
+4_1,Aa,aa,true 
+1_1,,aa,false 
+5_1,Aa,aa,true 
+3_1,Aa,aa,true 
+MO2,Sy,sy,true 
+2_1,Aa,aa,true 
+MO3,Sy,sy,true 
+3_2,Aa,aa,true 
+2_2,Co,ad,false 
+5_2,re,re,true 
+2_3,Aa,aa,true 
+4_2,Aa/Co,aa/ co,false 
+3_3,Qu,qu,true 
+5_3,Ct,ct,true 
+2_4,Qu,qu,true 
+1_2,Aa,ct/ aa,false 
+2_5,Qu/Aa,aa/ qu,false 
+5_4,aa,aa,true 
+1_3,Ct/Qu,qu,false 
+5_5,Aa,aa,true 
+2_6,Nv/Aa,aa,false 
+1_4,Aa,aa,true 
+3_4,Qu,qu,true 
+2_7,Aa,aa,true 
+1_5,,aa,false 
+4_3,Aa,aa,true 
+3_5,Aa,aa,true 
+2_8,Qu,qu/ ct,false 
+MO4,Sy,sy,true 
+4_4,Ad,re,false 
+5_6,Ad,ad,true 
+4_5,Re,aa,false 
+2_9,Qu,qu,true 
+3_6,Ad,qu,false 
+5_7,Aa,ic,false 
+4_6,Ad,ad,true 
+1_6,Ac,ct/ac/cs,false 
+4_7,Nv,aa,false 
+2_10,Ac/NV/Ad,ac,false 
+4_8,Aa,aa,true 
+1_7,rj,rj,true 
+2_11,Ac,ac,true 
+4_9,Qu,qu,true 
+1_8,Ct,ct,true 
+2_12,Aa,ac,false 
+5_8,Aa,ac/ aa,false 
+3_7,Aa,co/ aa,false 
+2_13,Aa,aa/ co,false 
+5_9,Aa,aa,true 
+4_10,Aa,aa,true 
+4_11,Aa,aa,true 
+MO5,Sy,sy,true 
+5_10,Aa,aa,true 
+2_14,Ag,aa,false 
+MO6,Sy,sy,true 
+2_15,Qu,qu,true 
+4_12,Qu,qu,true 
+5_11,ac,ac,true 
+3_8,Rj,rj/ ic,false 
+5_12,Re,null,false 
+4_13,Qu,qu,true 
+3_9,Qu,qu,true 
+2_16,Aa,aa,true 
+5_13,Sd,aa,false 
+2_17,Nv- Aa,aa,false 
+4_14,Aa,aa,true 
+5_14,Aa,aa,true 
+3_10,Qu,qu,true 
+4_15,Aa,aa,true 
+2_18,Ac,ac,true 
+4_16,Ac,ac,true 
+2_19,Aa,aa,true 
+3_11,Qu/ Rj,qu,false 
+5_15,Re,aa,false 
+MO7,Sy,sy,true 
+2_20,Rj,aa,false 
+4_17,Ad,aa,false 
+2_21,ag,ag,true 
+4_18,Qu,qu,true 
+3_12,Cs/Ac,ac,false 
+5_16,Rj/ Sd,sd,false 
+2_22,cd,cd,true 
+5_17,Ct,ct,true 
+2_23,ac,ac,true 
+4_19,Ag,aa,false 
+2_24,Ac,ac,true 
+5_18,Ac,ac,true 
+3_13,Aa,co,false 
+5_19,Cd/Ac/ta,ac/ ta,false 
+2_25,sd,sd,true 
+MO8,Sy,sy,true 
+5_20,Qu,qu,true 
+MO9,Sy,sy,true 
+3_14,Co,aa,false 
+2_26,ag,aa,false 
+M10,Sy,sy,true 
+2_27,ag,aa,false 
